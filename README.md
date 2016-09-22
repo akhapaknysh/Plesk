@@ -1,0 +1,2 @@
+# Plesk
+for trainings
